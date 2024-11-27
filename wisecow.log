@@ -1,0 +1,38 @@
+2024-11-27 05:26:16 - Prerequisites verified.
+2024-11-27 05:26:16 - Starting Wisecow server on port 4499...
+2024-11-27 05:25:23 - Received request: 
+2024-11-27 05:25:23 - Generated fortune: Q:	How many hardware engineers does it take to change a light bulb?
+A:	None.  We'll fix it in software.
+
+Q:	How many system programmers does it take to change a light bulb?
+A:	None.  The application can work around it.
+
+Q:	How many software engineers does it take to change a light bulb?
+A:	None.  We'll document it in the manual.
+
+Q:	How many tech writers does it take to change a light bulb?
+A:	None.  The user can figure it out.
+2024-11-27 05:25:23 - Response sent.
+2024-11-27 05:25:23 - Received request: 
+2024-11-27 05:25:23 - Generated fortune: The last thing one knows in constructing a work is what to put first.
+		-- Blaise Pascal
+2024-11-27 05:25:23 - Response sent.
+2024-11-27 05:25:24 - Received request: GET / HTTP/1.1
+2024-11-27 05:25:24 - Generated fortune: For there are moments when one can neither think nor feel.  And if one can
+neither think nor feel, she thought, where is one?
+		-- Virginia Woolf, "To the Lighthouse"
+
+	[Quoted in "VMS Internals and Data Structures", V4.4, when
+	 referring to powerfail recovery.]
+2024-11-27 05:25:24 - Response sent.
+2024-11-27 05:25:24 - Received request: GET /favicon.ico HTTP/1.1
+2024-11-27 05:25:24 - Generated fortune: Q:	How did you get into artificial intelligence?
+A:	Seemed logical -- I didn't have any real intelligence.
+2024-11-27 05:25:24 - Response sent.
+2024-11-27 05:25:26 - Received request: GET / HTTP/1.1
+2024-11-27 05:25:26 - Generated fortune: Tell the truth or trump--but get the trick.
+		-- Mark Twain, "Pudd'nhead Wilson's Calendar"
+2024-11-27 05:25:26 - Response sent.
+2024-11-27 05:25:26 - Received request: GET /favicon.ico HTTP/1.1
+2024-11-27 05:25:26 - Generated fortune: You will always get the greatest recognition for the job you least like.
+2024-11-27 05:25:26 - Response sent.

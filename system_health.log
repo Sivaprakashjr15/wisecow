@@ -1,0 +1,184 @@
+2024-11-27 11:00:59,977 - INFO - System health monitor started.
+2024-11-27 11:01:00,982 - INFO - CPU Usage: 2.8%
+2024-11-27 11:01:00,982 - INFO - Memory Usage: 87.7%
+2024-11-27 11:01:00,982 - INFO - Disk Usage: 97.4%
+2024-11-27 11:01:00,982 - INFO - Process Count: 270
+2024-11-27 11:01:00,982 - WARNING - High Memory Usage: 87.7% (Threshold: 80%)
+2024-11-27 11:01:00,982 - WARNING - High Disk Usage: 97.4% (Threshold: 80%)
+2024-11-27 11:01:00,982 - WARNING - High Process Count: 270 (Threshold: 200)
+2024-11-27 11:01:11,993 - INFO - CPU Usage: 0.4%
+2024-11-27 11:01:11,993 - INFO - Memory Usage: 87.7%
+2024-11-27 11:01:11,993 - INFO - Disk Usage: 97.4%
+2024-11-27 11:01:11,993 - INFO - Process Count: 270
+2024-11-27 11:01:11,993 - WARNING - High Memory Usage: 87.7% (Threshold: 80%)
+2024-11-27 11:01:11,993 - WARNING - High Disk Usage: 97.4% (Threshold: 80%)
+2024-11-27 11:01:11,993 - WARNING - High Process Count: 270 (Threshold: 200)
+2024-11-27 11:01:23,005 - INFO - CPU Usage: 7.3%
+2024-11-27 11:01:23,005 - INFO - Memory Usage: 89.6%
+2024-11-27 11:01:23,005 - INFO - Disk Usage: 97.4%
+2024-11-27 11:01:23,005 - INFO - Process Count: 271
+2024-11-27 11:01:23,005 - WARNING - High Memory Usage: 89.6% (Threshold: 80%)
+2024-11-27 11:01:23,005 - WARNING - High Disk Usage: 97.4% (Threshold: 80%)
+2024-11-27 11:01:23,005 - WARNING - High Process Count: 271 (Threshold: 200)
+2024-11-27 11:01:34,020 - INFO - CPU Usage: 0.4%
+2024-11-27 11:01:34,020 - INFO - Memory Usage: 89.7%
+2024-11-27 11:01:34,020 - INFO - Disk Usage: 97.4%
+2024-11-27 11:01:34,020 - INFO - Process Count: 271
+2024-11-27 11:01:34,020 - WARNING - High Memory Usage: 89.7% (Threshold: 80%)
+2024-11-27 11:01:34,020 - WARNING - High Disk Usage: 97.4% (Threshold: 80%)
+2024-11-27 11:01:34,020 - WARNING - High Process Count: 271 (Threshold: 200)
+2024-11-27 11:01:45,030 - INFO - CPU Usage: 0.4%
+2024-11-27 11:01:45,030 - INFO - Memory Usage: 89.0%
+2024-11-27 11:01:45,030 - INFO - Disk Usage: 97.4%
+2024-11-27 11:01:45,030 - INFO - Process Count: 271
+2024-11-27 11:01:45,030 - WARNING - High Memory Usage: 89.0% (Threshold: 80%)
+2024-11-27 11:01:45,030 - WARNING - High Disk Usage: 97.4% (Threshold: 80%)
+2024-11-27 11:01:45,030 - WARNING - High Process Count: 271 (Threshold: 200)
+2024-11-27 11:01:56,042 - INFO - CPU Usage: 0.8%
+2024-11-27 11:01:56,042 - INFO - Memory Usage: 89.0%
+2024-11-27 11:01:56,042 - INFO - Disk Usage: 97.4%
+2024-11-27 11:01:56,042 - INFO - Process Count: 270
+2024-11-27 11:01:56,042 - WARNING - High Memory Usage: 89.0% (Threshold: 80%)
+2024-11-27 11:01:56,042 - WARNING - High Disk Usage: 97.4% (Threshold: 80%)
+2024-11-27 11:01:56,042 - WARNING - High Process Count: 270 (Threshold: 200)
+2024-11-27 11:02:07,054 - INFO - CPU Usage: 0.8%
+2024-11-27 11:02:07,054 - INFO - Memory Usage: 89.0%
+2024-11-27 11:02:07,054 - INFO - Disk Usage: 97.4%
+2024-11-27 11:02:07,054 - INFO - Process Count: 270
+2024-11-27 11:02:07,054 - WARNING - High Memory Usage: 89.0% (Threshold: 80%)
+2024-11-27 11:02:07,054 - WARNING - High Disk Usage: 97.4% (Threshold: 80%)
+2024-11-27 11:02:07,054 - WARNING - High Process Count: 270 (Threshold: 200)
+2024-11-27 11:02:18,067 - INFO - CPU Usage: 2.1%
+2024-11-27 11:02:18,067 - INFO - Memory Usage: 89.0%
+2024-11-27 11:02:18,067 - INFO - Disk Usage: 97.4%
+2024-11-27 11:02:18,067 - INFO - Process Count: 270
+2024-11-27 11:02:18,067 - WARNING - High Memory Usage: 89.0% (Threshold: 80%)
+2024-11-27 11:02:18,067 - WARNING - High Disk Usage: 97.4% (Threshold: 80%)
+2024-11-27 11:02:18,067 - WARNING - High Process Count: 270 (Threshold: 200)
+2024-11-27 11:02:29,080 - INFO - CPU Usage: 1.2%
+2024-11-27 11:02:29,080 - INFO - Memory Usage: 88.7%
+2024-11-27 11:02:29,080 - INFO - Disk Usage: 97.4%
+2024-11-27 11:02:29,080 - INFO - Process Count: 270
+2024-11-27 11:02:29,080 - WARNING - High Memory Usage: 88.7% (Threshold: 80%)
+2024-11-27 11:02:29,080 - WARNING - High Disk Usage: 97.4% (Threshold: 80%)
+2024-11-27 11:02:29,080 - WARNING - High Process Count: 270 (Threshold: 200)
+2024-11-27 11:02:40,088 - INFO - CPU Usage: 0.4%
+2024-11-27 11:02:40,088 - INFO - Memory Usage: 88.8%
+2024-11-27 11:02:40,088 - INFO - Disk Usage: 97.4%
+2024-11-27 11:02:40,088 - INFO - Process Count: 270
+2024-11-27 11:02:40,088 - WARNING - High Memory Usage: 88.8% (Threshold: 80%)
+2024-11-27 11:02:40,088 - WARNING - High Disk Usage: 97.4% (Threshold: 80%)
+2024-11-27 11:02:40,088 - WARNING - High Process Count: 270 (Threshold: 200)
+2024-11-27 11:02:51,103 - INFO - CPU Usage: 0.8%
+2024-11-27 11:02:51,103 - INFO - Memory Usage: 88.8%
+2024-11-27 11:02:51,103 - INFO - Disk Usage: 97.4%
+2024-11-27 11:02:51,103 - INFO - Process Count: 270
+2024-11-27 11:02:51,103 - WARNING - High Memory Usage: 88.8% (Threshold: 80%)
+2024-11-27 11:02:51,103 - WARNING - High Disk Usage: 97.4% (Threshold: 80%)
+2024-11-27 11:02:51,103 - WARNING - High Process Count: 270 (Threshold: 200)
+2024-11-27 11:03:02,113 - INFO - CPU Usage: 0.6%
+2024-11-27 11:03:02,113 - INFO - Memory Usage: 88.9%
+2024-11-27 11:03:02,113 - INFO - Disk Usage: 97.4%
+2024-11-27 11:03:02,113 - INFO - Process Count: 270
+2024-11-27 11:03:02,113 - WARNING - High Memory Usage: 88.9% (Threshold: 80%)
+2024-11-27 11:03:02,113 - WARNING - High Disk Usage: 97.4% (Threshold: 80%)
+2024-11-27 11:03:02,113 - WARNING - High Process Count: 270 (Threshold: 200)
+2024-11-27 11:03:13,124 - INFO - CPU Usage: 0.2%
+2024-11-27 11:03:13,124 - INFO - Memory Usage: 88.8%
+2024-11-27 11:03:13,124 - INFO - Disk Usage: 97.4%
+2024-11-27 11:03:13,124 - INFO - Process Count: 270
+2024-11-27 11:03:13,124 - WARNING - High Memory Usage: 88.8% (Threshold: 80%)
+2024-11-27 11:03:13,124 - WARNING - High Disk Usage: 97.4% (Threshold: 80%)
+2024-11-27 11:03:13,124 - WARNING - High Process Count: 270 (Threshold: 200)
+2024-11-27 11:03:24,137 - INFO - CPU Usage: 1.0%
+2024-11-27 11:03:24,137 - INFO - Memory Usage: 88.8%
+2024-11-27 11:03:24,137 - INFO - Disk Usage: 97.4%
+2024-11-27 11:03:24,137 - INFO - Process Count: 270
+2024-11-27 11:03:24,137 - WARNING - High Memory Usage: 88.8% (Threshold: 80%)
+2024-11-27 11:03:24,137 - WARNING - High Disk Usage: 97.4% (Threshold: 80%)
+2024-11-27 11:03:24,137 - WARNING - High Process Count: 270 (Threshold: 200)
+2024-11-27 11:03:35,147 - INFO - CPU Usage: 1.0%
+2024-11-27 11:03:35,147 - INFO - Memory Usage: 89.1%
+2024-11-27 11:03:35,147 - INFO - Disk Usage: 97.4%
+2024-11-27 11:03:35,147 - INFO - Process Count: 270
+2024-11-27 11:03:35,147 - WARNING - High Memory Usage: 89.1% (Threshold: 80%)
+2024-11-27 11:03:35,147 - WARNING - High Disk Usage: 97.4% (Threshold: 80%)
+2024-11-27 11:03:35,147 - WARNING - High Process Count: 270 (Threshold: 200)
+2024-11-27 11:03:46,158 - INFO - CPU Usage: 0.6%
+2024-11-27 11:03:46,158 - INFO - Memory Usage: 88.9%
+2024-11-27 11:03:46,158 - INFO - Disk Usage: 97.4%
+2024-11-27 11:03:46,158 - INFO - Process Count: 270
+2024-11-27 11:03:46,158 - WARNING - High Memory Usage: 88.9% (Threshold: 80%)
+2024-11-27 11:03:46,158 - WARNING - High Disk Usage: 97.4% (Threshold: 80%)
+2024-11-27 11:03:46,158 - WARNING - High Process Count: 270 (Threshold: 200)
+2024-11-27 11:03:57,171 - INFO - CPU Usage: 1.0%
+2024-11-27 11:03:57,171 - INFO - Memory Usage: 88.9%
+2024-11-27 11:03:57,171 - INFO - Disk Usage: 97.4%
+2024-11-27 11:03:57,171 - INFO - Process Count: 270
+2024-11-27 11:03:57,171 - WARNING - High Memory Usage: 88.9% (Threshold: 80%)
+2024-11-27 11:03:57,171 - WARNING - High Disk Usage: 97.4% (Threshold: 80%)
+2024-11-27 11:03:57,171 - WARNING - High Process Count: 270 (Threshold: 200)
+2024-11-27 11:04:08,183 - INFO - CPU Usage: 0.4%
+2024-11-27 11:04:08,183 - INFO - Memory Usage: 88.9%
+2024-11-27 11:04:08,183 - INFO - Disk Usage: 97.4%
+2024-11-27 11:04:08,183 - INFO - Process Count: 270
+2024-11-27 11:04:08,183 - WARNING - High Memory Usage: 88.9% (Threshold: 80%)
+2024-11-27 11:04:08,183 - WARNING - High Disk Usage: 97.4% (Threshold: 80%)
+2024-11-27 11:04:08,183 - WARNING - High Process Count: 270 (Threshold: 200)
+2024-11-27 11:04:19,195 - INFO - CPU Usage: 0.4%
+2024-11-27 11:04:19,195 - INFO - Memory Usage: 84.8%
+2024-11-27 11:04:19,195 - INFO - Disk Usage: 97.4%
+2024-11-27 11:04:19,195 - INFO - Process Count: 270
+2024-11-27 11:04:19,195 - WARNING - High Memory Usage: 84.8% (Threshold: 80%)
+2024-11-27 11:04:19,195 - WARNING - High Disk Usage: 97.4% (Threshold: 80%)
+2024-11-27 11:04:19,195 - WARNING - High Process Count: 270 (Threshold: 200)
+2024-11-27 11:04:30,206 - INFO - CPU Usage: 0.0%
+2024-11-27 11:04:30,206 - INFO - Memory Usage: 84.7%
+2024-11-27 11:04:30,206 - INFO - Disk Usage: 97.4%
+2024-11-27 11:04:30,206 - INFO - Process Count: 270
+2024-11-27 11:04:30,206 - WARNING - High Memory Usage: 84.7% (Threshold: 80%)
+2024-11-27 11:04:30,206 - WARNING - High Disk Usage: 97.4% (Threshold: 80%)
+2024-11-27 11:04:30,206 - WARNING - High Process Count: 270 (Threshold: 200)
+2024-11-27 11:04:41,217 - INFO - CPU Usage: 1.9%
+2024-11-27 11:04:41,217 - INFO - Memory Usage: 87.4%
+2024-11-27 11:04:41,217 - INFO - Disk Usage: 97.4%
+2024-11-27 11:04:41,217 - INFO - Process Count: 271
+2024-11-27 11:04:41,217 - WARNING - High Memory Usage: 87.4% (Threshold: 80%)
+2024-11-27 11:04:41,217 - WARNING - High Disk Usage: 97.4% (Threshold: 80%)
+2024-11-27 11:04:41,217 - WARNING - High Process Count: 271 (Threshold: 200)
+2024-11-27 11:04:52,234 - INFO - CPU Usage: 1.6%
+2024-11-27 11:04:52,234 - INFO - Memory Usage: 87.0%
+2024-11-27 11:04:52,234 - INFO - Disk Usage: 97.4%
+2024-11-27 11:04:52,234 - INFO - Process Count: 270
+2024-11-27 11:04:52,234 - WARNING - High Memory Usage: 87.0% (Threshold: 80%)
+2024-11-27 11:04:52,234 - WARNING - High Disk Usage: 97.4% (Threshold: 80%)
+2024-11-27 11:04:52,234 - WARNING - High Process Count: 270 (Threshold: 200)
+2024-11-27 11:05:03,263 - INFO - CPU Usage: 4.9%
+2024-11-27 11:05:03,263 - INFO - Memory Usage: 84.8%
+2024-11-27 11:05:03,263 - INFO - Disk Usage: 97.4%
+2024-11-27 11:05:03,263 - INFO - Process Count: 270
+2024-11-27 11:05:03,264 - WARNING - High Memory Usage: 84.8% (Threshold: 80%)
+2024-11-27 11:05:03,264 - WARNING - High Disk Usage: 97.4% (Threshold: 80%)
+2024-11-27 11:05:03,264 - WARNING - High Process Count: 270 (Threshold: 200)
+2024-11-27 11:05:14,295 - INFO - CPU Usage: 6.9%
+2024-11-27 11:05:14,295 - INFO - Memory Usage: 85.3%
+2024-11-27 11:05:14,295 - INFO - Disk Usage: 97.4%
+2024-11-27 11:05:14,295 - INFO - Process Count: 268
+2024-11-27 11:05:14,295 - WARNING - High Memory Usage: 85.3% (Threshold: 80%)
+2024-11-27 11:05:14,295 - WARNING - High Disk Usage: 97.4% (Threshold: 80%)
+2024-11-27 11:05:14,295 - WARNING - High Process Count: 268 (Threshold: 200)
+2024-11-27 11:05:25,311 - INFO - CPU Usage: 2.3%
+2024-11-27 11:05:25,311 - INFO - Memory Usage: 84.9%
+2024-11-27 11:05:25,311 - INFO - Disk Usage: 97.4%
+2024-11-27 11:05:25,311 - INFO - Process Count: 268
+2024-11-27 11:05:25,311 - WARNING - High Memory Usage: 84.9% (Threshold: 80%)
+2024-11-27 11:05:25,311 - WARNING - High Disk Usage: 97.4% (Threshold: 80%)
+2024-11-27 11:05:25,311 - WARNING - High Process Count: 268 (Threshold: 200)
+2024-11-27 11:05:36,337 - INFO - CPU Usage: 2.5%
+2024-11-27 11:05:36,337 - INFO - Memory Usage: 81.3%
+2024-11-27 11:05:36,337 - INFO - Disk Usage: 97.4%
+2024-11-27 11:05:36,337 - INFO - Process Count: 268
+2024-11-27 11:05:36,337 - WARNING - High Memory Usage: 81.3% (Threshold: 80%)
+2024-11-27 11:05:36,337 - WARNING - High Disk Usage: 97.4% (Threshold: 80%)
+2024-11-27 11:05:36,337 - WARNING - High Process Count: 268 (Threshold: 200)
+2024-11-27 11:05:41,889 - INFO - System health monitor stopped.
